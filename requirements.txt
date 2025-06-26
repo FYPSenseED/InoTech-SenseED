@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+opencv-python
+ffmpeg-python
+numpy
+deepface
+librosa
+transformers
+torch
+torchaudio
+whisper
+pydub
+python-multipart
